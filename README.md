@@ -10,10 +10,9 @@
 ---
 
 🌟 **About Me**  
-- 🎓 Computer Engineering Graduate from Pokhara University (2020-2024).  
-- 💻 Currently working as a Software Trainee at **TREELEAF.AI PVT. LTD.**  
-- 🚀 Enthusiastic about Artificial Intelligence, Machine Learning, and Clean Software Architecture.   
-- 🎯 Aspiring to pursue a Master's in Artificial Intelligence.  
+- 🎓 Computer Engineering Graduate from Pokhara University (2020-2024).   
+- 🚀 Enthusiastic about Artificial Intelligence, Machine Learning.   
+
 
 ---
 
