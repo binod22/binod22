@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Nepal</h3>
 
 <p align="center">
-  👉 <a href="https://portfolio-site-of-binod22.netlify.app" target="_blank" style="text-decoration: none; font-size: 20px;">
+  👉 <a href="http://binodregmi.com.np" target="_blank" style="text-decoration: none; font-size: 20px;">
     <strong>Visit My Portfolio Website</strong>
   </a>
 </p>
